@@ -4,6 +4,10 @@ A real-time multi-sensor dashboard built on an ESP32 using FreeRTOS, where three
 
 Built as a personal project to apply real-time operating system (RTOS) concepts to embedded hardware.
 
+## Demo Video
+
+[Watch the demo on YouTube](https://youtube.com/watch?v=Ja4FrEaiSzc)
+
 ## How it works
 
 Three FreeRTOS tasks run independently and concurrently:
